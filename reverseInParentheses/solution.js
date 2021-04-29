@@ -24,3 +24,5 @@ function reverseInParentheses(s) {
     return s 
     
 }
+
+reverseInParentheses('foo(bar)')
